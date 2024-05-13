@@ -14,7 +14,7 @@ spec:
     spec:
       containers:
       - name: petclinic
-        image: avinashbudhya/pet-clinic123:latest
+        image: avinashbudhya/petclinic1:latest
         ports:
         - containerPort: 8080
         imagePullPolicy: Always
